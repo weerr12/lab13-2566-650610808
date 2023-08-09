@@ -26,11 +26,7 @@ export default function RootLayout({ children }) {
           <Header />
           <Navbar />
           {children}
-          <Footer
-            year="2023"
-            fullName="Phurinon Foeythika"
-            studentId="650610800"
-          />
+          <Footer year="2023" fullName="Werasak Mayer" studentId="650610808" />
         </div>
       </body>
     </html>
